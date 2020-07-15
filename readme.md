@@ -1,16 +1,17 @@
 # Hotel Management API
 
-##udaan online challenge
-
 
 
 
 #### Features 
 
-* 
-* Item 2
-  * Item 2a
-  * Item 2b
+* Add and display new workers 
+* Add and display assets
+* Add and display tasks
+* Each Task is associated with a particular asset
+* Each Task can be allocated to a worker 
+* Each worker can be assigned one or more tasks
+* Each assset can be linked to one or more tasks 
 
 
 
@@ -26,13 +27,16 @@
 *Task
 
 
+### Postman Documentation 
+https://documenter.getpostman.com/view/4573774/T17Q5jeS?version=latest
+
 #### Installation
 
 
 Clone the repo and use npm install to download the dependicies
 
 ```
-$ git clone https://github.com/Utkarshmalik/udaan_hiring_challenge.git
+$ https://github.com/Utkarshmalik/Hotel-Management-API.git
 $ npm install
 ```
 
